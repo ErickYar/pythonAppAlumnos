@@ -10,7 +10,7 @@ def index(request):
     return render(request,'app/index.html',{'estudiantes': Estudiante.objects.all()})
 
 
-def views_student(request,id):
+def view_student(request,id):
     return HttpResponseRedirect(reverse('index'))
 
 def add(request):

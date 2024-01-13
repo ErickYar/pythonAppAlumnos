@@ -15,11 +15,11 @@ class EstudianteForm(forms.ModelForm):
             'carrera': 'Carrera'
         }
 
-        widgets ={
+        widgets = {
             'codigo':forms.NumberInput(attrs={'class':'form-control'}),
             'nombre': forms.TextInput(attrs={'class':'form-control'}),
             'apellidos':forms.TextInput(attrs={'class':'form-control'}),
             'edad':forms.NumberInput(attrs={'class':'form-control'}),
-            'email':forms.EmailField(attrs={'class':'form-control'}),
+            'email':forms.EmailInput(attrs={'class':'form-control'}),
             'carrera':forms.TextInput(attrs={'class':'form-control'})
         }
