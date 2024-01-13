@@ -15,7 +15,7 @@ La creación son con lo comando:
 - ![Listado](app/images/listado.png)
 - ![Actualizar](app/images/actualizar_alumno.png)
 - ![Agregar](app/images/agregar_alumno.png)
-- ![ventana de detalle del alumno](ventana_de_detalle.png)
+- ![ventana de detalle del alumno](app/images/ventana_de_detalle.png)
 
 
 # Link de youtube:
