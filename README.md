@@ -12,10 +12,10 @@ La creación son con lo comando:
 - py manage.py makemigrations
 
 # La imagen del Proyecto
-![Listado](listado.png)
-![Actualizar](actualizar.png)
-![Agregar](agregar.png)
-![ventana de detalle del alumno](ventana_de_detalle.png)
+- ![Listado](app/images/listado.png)
+- ![Actualizar](app/images/actualizar_alumno.png)
+- ![Agregar](app/images/agregar_alumno.png)
+- ![ventana de detalle del alumno](ventana_de_detalle.png)
 
 
 # Link de youtube:
