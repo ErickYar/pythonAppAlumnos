@@ -21,3 +21,6 @@ La creación son con lo comando:
 # Link de youtube:
 Es el funcionamiento del proyecto realizado
 - Sistema de proyecto [Web Alumnos]()
+
+# Linkedin:
+- link [Linkedin](https://www.linkedin.com/in/richarde-yarleque/)
